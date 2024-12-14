@@ -5,5 +5,5 @@
 - MOTHERBOARD
 - BASEBOARD
 - smBios UUID
-- win32_computersystemproduct uuid
-- getmac
+- win32_ComputerSystemProduct uuid
+- GETMAC
